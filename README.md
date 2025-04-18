@@ -51,17 +51,6 @@ Here are some projects I've worked on or am currently working on (update with re
 
 [Hoyostore]: An e-commerce platform developed with WordPress for selling figures, featuring user login, a product listing, and a personalized user experience. 🔗 Link to project | 🌟 Demo
 
-
-(Replace with your actual projects)
-
-🌟 My Goals
-
-Master full-stack development with React and Laravel.  
-Explore game development with tools like Unity or Godot.  
-Dive deeper into AI and its real-world applications.  
-Build an open-source project to contribute to the community.
-
-
 🤝 Want to Collaborate?
 I'm always eager to learn and work with others! If you have an exciting idea or want to collaborate on a project, reach out to me via:  
 
