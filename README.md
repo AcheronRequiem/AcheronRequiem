@@ -30,13 +30,6 @@ Databases:
 
 MySQL
 
-
-Frameworks & Libraries:  
-
-React  
-Laravel
-
-
 Tools:  
 
 Visual Studio Code  
