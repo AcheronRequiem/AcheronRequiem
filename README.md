@@ -46,11 +46,10 @@ Git
 
 
 🚀 Featured Projects
+
 Here are some projects I've worked on or am currently working on (update with real links if available):
 
-[Project Name 1]A web application built with React and Laravel to help users manage daily tasks.🔗 Link to project | 🌟 Demo
-
-[Project Name 2]An experimental project using JavaScript and MySQL for a basic management system.🔗 Link to project
+[Hoyostore]: An e-commerce platform developed with WordPress for selling figures, featuring user login, a product listing, and a personalized user experience. 🔗 Link to project | 🌟 Demo
 
 
 (Replace with your actual projects)
