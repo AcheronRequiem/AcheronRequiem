@@ -14,7 +14,7 @@ Python to explore versatile programming.
 📫 Reach me at:  
 
 Email: duydepzaie@gmail.com  
-GitHub: github.com/your-username (Replace with your username)
+GitHub: github.com/AcheronRequiem
 
 
 🔧 Tech Stack
