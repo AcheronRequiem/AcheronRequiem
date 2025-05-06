@@ -23,12 +23,10 @@ Programming Languages:
 
 JavaScript  
 PHP  
-Python (learning)
-
 
 Databases:  
 
-MySQL
+MySQL, SQL Server
 
 Tools:  
 
